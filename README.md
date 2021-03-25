@@ -1,7 +1,7 @@
 천체 유형 분류 대회
 =======================================
 
-Sloan Digital Sky Survey 데이터를 통해 천체 유형을 분류하는 대회입니다.
+Sloan Digital Sky Survey 데이터를 통해 천체 유형을 분류하는 대회입니다.  
 대회 링크:
 https://www.dacon.io/competitions/official/235573/overview/description/
 
